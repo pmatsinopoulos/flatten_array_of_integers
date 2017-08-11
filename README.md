@@ -1,3 +1,5 @@
+# What
+
 Implement Array#flatten for Integers without using flatten.
 
 The function developed is called `flatten_aoi_recursive`:
@@ -12,3 +14,7 @@ Note that the implementation is a recursive implementation.
 If an element is an Integer, we just push it to the +result+ Array.
 If the element is an Array, we flatten it and then we push each one of its
 elements to the +result+ Array.
+
+# Test
+
+You can read and enhance the automated tests [here](spec/flatten_aoi_spec.rb)
