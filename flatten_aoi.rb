@@ -1,4 +1,4 @@
-# param +array+ is an Array that contains elements which are:
+# input param +array+ is an Array that contains elements which are:
 #
 #  1. Integer
 #  2. Array of Integer
